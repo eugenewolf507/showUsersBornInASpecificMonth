@@ -1,0 +1,32 @@
+.LegendTable {
+  padding-right: 20px;
+  min-width: 150px;
+}
+
+.caption {
+  padding: 15px 0;
+}
+
+.grey {
+  background-color: #b2babb;
+  border-radius: 2px;
+  padding-bottom: 4px;
+}
+
+.blue {
+  background-color: #7fb3d5;
+  border-radius: 2px;
+  padding-bottom: 4px;
+}
+
+.green {
+  background-color: #7dcea0;
+  border-radius: 2px;
+  padding-bottom: 4px;
+}
+
+.red {
+  background-color: #f1948a;
+  border-radius: 2px;
+  padding-bottom: 4px;
+}

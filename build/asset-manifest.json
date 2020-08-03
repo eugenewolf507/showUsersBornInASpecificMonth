@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/showUsersBornInASpecificMonth/build/static/css/main.bc5ab0ea.chunk.css",
+    "main.js": "/showUsersBornInASpecificMonth/build/static/js/main.fec645c4.chunk.js",
+    "main.js.map": "/showUsersBornInASpecificMonth/build/static/js/main.fec645c4.chunk.js.map",
+    "runtime-main.js": "/showUsersBornInASpecificMonth/build/static/js/runtime-main.e7df1a50.js",
+    "runtime-main.js.map": "/showUsersBornInASpecificMonth/build/static/js/runtime-main.e7df1a50.js.map",
+    "static/js/2.93f13081.chunk.js": "/showUsersBornInASpecificMonth/build/static/js/2.93f13081.chunk.js",
+    "static/js/2.93f13081.chunk.js.map": "/showUsersBornInASpecificMonth/build/static/js/2.93f13081.chunk.js.map",
+    "index.html": "/showUsersBornInASpecificMonth/build/index.html",
+    "precache-manifest.6820e15800ef1439ae0af0ab1520f653.js": "/showUsersBornInASpecificMonth/build/precache-manifest.6820e15800ef1439ae0af0ab1520f653.js",
+    "service-worker.js": "/showUsersBornInASpecificMonth/build/service-worker.js",
+    "static/css/main.bc5ab0ea.chunk.css.map": "/showUsersBornInASpecificMonth/build/static/css/main.bc5ab0ea.chunk.css.map",
+    "static/js/2.93f13081.chunk.js.LICENSE.txt": "/showUsersBornInASpecificMonth/build/static/js/2.93f13081.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7df1a50.js",
+    "static/js/2.93f13081.chunk.js",
+    "static/css/main.bc5ab0ea.chunk.css",
+    "static/js/main.fec645c4.chunk.js"
+  ]
+}
